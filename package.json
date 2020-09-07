@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-javascript",
+  "version": "1.0.0",
+  "description": "A \"Hello, World!\" program in JavaScript using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morphatic/hello-world-javascript.git"
+  },
+  "author": "morgan.benton@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morphatic/hello-world-javascript/issues"
+  },
+  "homepage": "https://github.com/morphatic/hello-world-javascript#readme"
+}
